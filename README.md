@@ -2,9 +2,13 @@
 The Application
 
 The developers involved in this project were:
+
 Sheena Nayee
+
 Chloe chase
+
 Titus Mahendran
+
 Justyn McKenna
 
 The application is built by using enterprise Java technologies that has a multi-module Maven project structure. It has a Java Server Page for the front end with JavaScript to generate the user interface. The user interface communicates to the Java Server Page by using a simple HTML form. All the projects in the project have a comprehensive unit test.
