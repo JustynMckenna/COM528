@@ -1,5 +1,6 @@
 # COM528
 ## The Application
+So that we could begin working on this project all of the developers came together and decided which part everyone was going to do. We all communicated by meeting up in the libary, calls and messages this was so that we could all help and guide eachother when making improvements in the web application.
 
 The developers involved in this project were:
 
@@ -11,12 +12,13 @@ Titus Mahendran
 
 Justyn McKenna
 
-
 The application is built by using enterprise Java technologies that has a multi-module Maven project structure. It has a Java Server Page for the front end with JavaScript to generate the user interface. The user interface communicates to the Java Server Page by using a simple HTML form. All the projects in the project have a comprehensive unit test.
 
 ## Using the Application
 When running NetBeans the web application is deployed by default to the localhost
 http://localhost:8080/
+
+However, due to the login page not allowing the user into the bank application using there login detials because the login page isn't fully functional. So in order to load the bank application then the user is able to type in the web address http://localhost:8080/transaction.jsp
 
 The numeric pad uses the numeric buttons to navigate through the menu for the user to add their card details.
 Please note that this application is built and tested for 1 browser instance per device. Use cases for multiple browser instances open on the same machine have not been tested and may cause error.
