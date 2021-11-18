@@ -11,6 +11,25 @@ Titus Mahendran
 
 Justyn McKenna
 
+Sheena
+Chloe
+Justyn
+Titus 
+Diagrams-all
+Html/css
+github
+Html/css/javasript
+backend
+Robustness diagram
+backend
+Uml class diagram
+transaction
+
+
+
+![image](https://user-images.githubusercontent.com/72074715/142429490-130a2b6c-e4b9-496e-a34f-b7135473f377.png)
+
+
 The application is built by using enterprise Java technologies that has a multi-module Maven project structure. It has a Java Server Page for the front end with JavaScript to generate the user interface. The user interface communicates to the Java Server Page by using a simple HTML form. All the projects in the project have a comprehensive unit test.
 
 ## Using the Application
