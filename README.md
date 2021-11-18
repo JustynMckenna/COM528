@@ -51,6 +51,13 @@ The system requirements for this application are:
 In order to build the project, the command line needs to be put into the root folder so that the project will build it with maven so that it will also run the tests for the project.
 mvn clean install
 
+## Use case
+## User
+![use cases user](https://user-images.githubusercontent.com/55873908/142461518-e5fb6978-28a0-4659-a23f-d30a7b71df44.PNG)
+## Admin
+![use cases admin](https://user-images.githubusercontent.com/55873908/142461528-fe7a1934-cf5f-409e-90dd-18f8f432b16a.PNG)
+
+
 
 ## Test case
 ![image](https://user-images.githubusercontent.com/55873908/142430731-405ab521-c468-45f9-9098-43eabb06d674.png)
