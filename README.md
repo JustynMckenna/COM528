@@ -51,7 +51,12 @@ The system requirements for this application are:
 In order to build the project, the command line needs to be put into the root folder so that the project will build it with maven so that it will also run the tests for the project.
 mvn clean install
 
+
+## Test case
+![image](https://user-images.githubusercontent.com/55873908/142430251-dc80f7da-71f2-4744-ba68-c654a3314d06.png)
+
+
 ## Error Notice
 
 If you receive errors for unknown reasons, then please clear your tomcat\temp and your tomcat\logs directly and then try running the application again.
-
+j
