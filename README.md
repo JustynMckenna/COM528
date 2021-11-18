@@ -52,6 +52,7 @@ In order to build the project, the command line needs to be put into the root fo
 mvn clean install
 
 ## Use case
+There is many differnet cases that a user is able to use this application. Here is a few examples below:
 ## User
 ![use cases user](https://user-images.githubusercontent.com/55873908/142461518-e5fb6978-28a0-4659-a23f-d30a7b71df44.PNG)
 ## Admin
